@@ -1,0 +1,8 @@
+# configuration file for training of yolo model
+
+path: C:\Users\vacla\PycharmProjects\logosClassificator\syntetic_data
+train: images/train
+val: images/val
+
+names:
+  0: logo
